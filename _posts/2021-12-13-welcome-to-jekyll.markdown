@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1st"
+title:  1st
 date:   2021-12-13 20:11:33 +0900
 categories: jekyll update
 comments: true
