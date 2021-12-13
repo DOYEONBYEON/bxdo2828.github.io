@@ -1,4 +1,6 @@
 ---
+comments: true
+
 layout: post
 title:  "1st"
 date:   2021-12-13 20:11:33 +0900
