@@ -34,10 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
-comment:
-   provider:	"disqus"
-   disqus:
-      shortname:	"dyb-3"
+comments:
+  provider: "disqus"
+
+disqus:
+  shortname: "dyb-3"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
