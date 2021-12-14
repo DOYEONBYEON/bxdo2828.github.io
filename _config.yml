@@ -36,9 +36,13 @@ plugins:
 
 comments:
   provider: disqus
-  
   disqus:
     shortname: dyb-3
+
+analytics:
+  provider: google
+  google:
+    tracking_id : G-WJ42SKH3T7
 
 # Exclude from processing.
 # The following items will not be processed, by default.
