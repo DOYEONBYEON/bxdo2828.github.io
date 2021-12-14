@@ -45,6 +45,12 @@ end. Google Analytic에서 실시간 방문자 통계를 확인 할 수 있다.
 </pre>
 
 
+<h2>Favicon 기능 추가</h2><br/><br/>
+![guideline](https://user-images.githubusercontent.com/90315907/145944656-2523bad4-6d3e-4ead-ac6d-cb8c9b0d083e.png)<br/>
+![123](https://user-images.githubusercontent.com/90315907/145944661-83e82a6f-aa25-4e2c-b59f-4f4acb96609c.PNG)<br/><br/><br/><br/><br/>
+
+https://realfavicongenerator.net/ 에서 원하는 이미지를 ico 로 변환 후 블로그 favicon 에 적용<br/><br/><br/><br/><br/><br/>
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
