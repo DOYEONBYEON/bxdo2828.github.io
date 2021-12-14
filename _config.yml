@@ -31,6 +31,7 @@ github_username:  DOYEONBYEON
 
 # Build settings
 theme: minima
+asset_url: /assets
 plugins:
   - jekyll-feed
 
@@ -39,7 +40,7 @@ comments:
   disqus:
     shortname: dyb-3
 
-asset_url: /assets
+
 
 # Analytics
 analytics:
