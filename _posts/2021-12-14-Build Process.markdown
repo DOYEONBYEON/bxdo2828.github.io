@@ -6,7 +6,6 @@ categories: jekyll update
 comments: true
 tags: [blog, jekyll, GA, tags]
 ---
-<h3>Build Process</h3> 
 
 <h2>Google Analytics(방문자 통계 추적) 기능 추가</h2> 
 
@@ -29,15 +28,13 @@ end. Google Analytic에서 실시간 방문자 통계를 확인 할 수 있다.
 2.post.html 파일 수정
   {{contents}} 부분에 아래 코드 추가
 
-<pre>
-<code>
-#{% if page.tags %}
+'''
+{% if page.tags %}
   #{% for tag in page.tags %}
     #<span class="tag">{{ tag }}</span>
   #{% endfor %}
 #{% endif %}
-</code>
-</pre>
+'''
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
