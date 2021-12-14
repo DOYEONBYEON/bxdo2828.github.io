@@ -39,6 +39,8 @@ comments:
   disqus:
     shortname: dyb-3
 
+asset_url: /assets
+
 # Analytics
 analytics:
   provider               : "google-gtag" 
