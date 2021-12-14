@@ -4,6 +4,7 @@ title:  about Git & Github
 date:   2021-12-13 20:11:33 +0900
 categories: jekyll update
 comments: true
+tags: [blog, jekyll, git, github]
 ---
 <h2>깃허브</h2>
 

@@ -44,6 +44,12 @@ layout: default
   
   {{ content }}
 
+  {% if page.tags %}
+    {% for tag in page.tags %}
+      <span class="tag">{{ tag }}</span>
+    {% endfor %}
+  {% endif %}
+
   {% if page.tags.size > 0 %}
     <div class="post-meta">
       <i class="post-tags-icon fas fa-tag"></i>
