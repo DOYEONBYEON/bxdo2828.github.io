@@ -16,7 +16,7 @@ tags: [blog, jekyll, GA, tags]
 3. _configs.yml 설정 변경
 
 end. Google Analytic에서 실시간 방문자 통계를 확인 할 수 있다.
-![1](https://user-images.githubusercontent.com/90315907/145928821-adb216f2-3edd-4385-8239-c19dd7171b44.png)  <br/><br/>
+![1](https://user-images.githubusercontent.com/90315907/145928821-adb216f2-3edd-4385-8239-c19dd7171b44.png)  <br/><br/><br/><br/><br/>
     
     
     
